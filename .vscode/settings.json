@@ -1,0 +1,6 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "jsProfileVisualizer.cpuprofile.table": true
+    },
+    "timeline.pageSize": null
+}
