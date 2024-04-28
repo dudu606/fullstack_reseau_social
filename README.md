@@ -3,7 +3,7 @@ Ce projet est un réseau social intra pour les étudiants de l’ESTIAM est un e
 **Configuration**
 Accédez au répertoire du projet et installez les dépendances en utilisant npm :
     **cd fullstack_reseau_social**
-    **npm install**
+   **npm install**
 Créez un fichier **.env** à la racine du projet et définissez les variables d'environnement nécessaires.
 
 **Excécution**
